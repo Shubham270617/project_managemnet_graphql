@@ -5,6 +5,7 @@ const userType = `#graphql
     USER
   }
     
+
   type User {
     id: ID!
     name: String!
